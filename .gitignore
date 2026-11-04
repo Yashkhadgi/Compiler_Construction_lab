@@ -1,0 +1,11 @@
+# Executables and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Lex and Yacc intermediate generated files
+lex.yy.c
+y.tab.c
+y.tab.h
+y.output
